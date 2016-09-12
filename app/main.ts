@@ -4,7 +4,7 @@ import {bootstrap} from "@angular/platform-browser-dynamic";
 
 @Component({
     selector:'my-app',
-    template: `<h1>Hello World !</h1>`
+    template: `<h1>Hello World ! Hello Github!</h1>`
 })
 export class HelloWorld {
 
